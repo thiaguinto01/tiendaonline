@@ -153,6 +153,7 @@ public class ManagerSeguridades {
     
     public void insertarUsuario(SegUsuario nuevoUsuario) throws Exception {
     	nuevoUsuario.setCodigo("n/a");
+    	//nuevoUsuario.setClave(null)
     	mDAO.insertar(nuevoUsuario);
     }
     
