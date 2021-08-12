@@ -12,5 +12,16 @@
 		<class>tiendaonlinedemo.model.core.entities.ThmRolDetalle</class>
 		<class>tiendaonlinedemo.model.core.entities.VwThmConsultaRol</class>
 		<class>tiendaonlinedemo.model.core.entities.TransVehiculo</class>
+		<class>tiendaonlinedemo.model.core.entities.CliCliente</class>
+		<class>tiendaonlinedemo.model.core.entities.CliContacto</class>
+		<class>tiendaonlinedemo.model.core.entities.CliDireccion</class>
+		<class>tiendaonlinedemo.model.core.entities.CliPago</class>
+		<class>tiendaonlinedemo.model.core.entities.InvColor</class>
+		<class>tiendaonlinedemo.model.core.entities.InvMarca</class>
+		<class>tiendaonlinedemo.model.core.entities.InvProducto</class>
+		<class>tiendaonlinedemo.model.core.entities.InvTalla</class>
+		<class>tiendaonlinedemo.model.core.entities.InvTipoProducto</class>
+		<class>tiendaonlinedemo.model.core.entities.VenCabecera</class>
+		<class>tiendaonlinedemo.model.core.entities.VenDetalle</class>
 	</persistence-unit>
 </persistence>
